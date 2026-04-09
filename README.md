@@ -5,4 +5,4 @@ Project page: https://lck666666.github.io/Mem3R/
 
 Paper (arXiv): https://arxiv.org/pdf/2604.07279
 
-Code & checkpoint will come soon. Stay tune!
+Code & checkpoint will come soon. Stay tuned!
