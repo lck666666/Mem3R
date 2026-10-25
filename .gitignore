@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+checkpoints/
+data/
+eval_results/
+output_results/
+demo_tmp/
+*.egg-info/
